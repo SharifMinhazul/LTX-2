@@ -31,11 +31,14 @@ tmp
 *.heic
 *.heif
 *.jpg
+*.JPG
 *.jpeg
 *.json
 *.m4a
 *.mov
 *.mp4
+*.MP4
 *.png
 *.wav
 *.webp
+*.log
